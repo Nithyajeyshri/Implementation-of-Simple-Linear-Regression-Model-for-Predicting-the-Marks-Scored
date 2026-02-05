@@ -76,11 +76,10 @@ print("R2 Score:", r2)
 ```
 
 ## Output:
-![WhatsApp Image 2026-02-04 at 4 02 22 PM (3)](https://github.com/user-attachments/assets/7fe185aa-ab74-45fe-a10b-7ff2fd011e2e)
-![WhatsApp Image 2026-02-04 at 4 02 22 PM (2)](https://github.com/user-attachments/assets/d2ce8f39-46fb-48fe-a5e7-9bad69998966)
-![WhatsApp Image 2026-02-04 at 4 02 22 PM (1)](https://github.com/user-attachments/assets/592c21ac-dc6b-4eff-913a-64c79e3b3250)
-![WhatsApp Image 2026-02-04 at 4 02 22 PM](https://github.com/user-attachments/assets/720244ec-033d-422d-88e5-ce776d82be51)
-
+![WhatsApp Image 2026-02-04 at 4 02 22 PM](https://github.com/user-attachments/assets/5969dee8-decc-40e8-8a89-2595c92f1ba1)
+![WhatsApp Image 2026-02-04 at 4 02 22 PM (1)](https://github.com/user-attachments/assets/b22e392d-a329-4f89-9afc-78001a0924c6)
+![WhatsApp Image 2026-02-04 at 4 02 22 PM (2)](https://github.com/user-attachments/assets/f38acb27-9aa5-42e2-884d-b48c8669cc49)
+![WhatsApp Image 2026-02-04 at 4 02 22 PM (3)](https://github.com/user-attachments/assets/b59aef08-9ef2-4f93-9b57-c166c706875d)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
